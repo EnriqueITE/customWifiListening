@@ -1,4 +1,4 @@
-# customWifiListening
+# customWifiListening - Presented in the event Mundo Hacker Day 2018 in Madrid, Spain
 
 Custom Python script using Scapy to enumerate WiFi probes and link the results with Wifiphisher Script.
 
